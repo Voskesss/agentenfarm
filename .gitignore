@@ -161,7 +161,7 @@ cython_debug/
 .idea/*
 settings.json
 .DS_Store
-test_agents/
+
 
 # Environment variables
 .env
@@ -179,3 +179,5 @@ venv/
 
 # Tests
 tests/
+test_agents/
+
