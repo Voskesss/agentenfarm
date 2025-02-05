@@ -178,6 +178,6 @@ settings.json
 venv/
 
 # Tests
-tests/
-test_agents/
+#tests/
+#test_agents/
 
